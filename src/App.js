@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import io from 'socket.io-client';
 
 // Connection to the server
-const socket = io.connect('http://localhost:4000');
+const socket = io.connect('https://69025619-c21c-43b6-aa81-bc384bceb85a-00-2f9o3zboiiazp.worf.replit.dev/');
 
 const App = () => {
   const [name, setName] = useState('');
