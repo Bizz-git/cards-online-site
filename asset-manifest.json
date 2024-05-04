@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/card-online-site/static/js/main.c6d5346d.js",
-    "static/js/453.ace3e5dd.chunk.js": "/card-online-site/static/js/453.ace3e5dd.chunk.js",
-    "index.html": "/card-online-site/index.html",
-    "main.c6d5346d.js.map": "/card-online-site/static/js/main.c6d5346d.js.map",
-    "453.ace3e5dd.chunk.js.map": "/card-online-site/static/js/453.ace3e5dd.chunk.js.map"
+    "main.js": "/cards-online-site/static/js/main.cb1472f3.js",
+    "static/js/453.ace3e5dd.chunk.js": "/cards-online-site/static/js/453.ace3e5dd.chunk.js",
+    "index.html": "/cards-online-site/index.html",
+    "main.cb1472f3.js.map": "/cards-online-site/static/js/main.cb1472f3.js.map",
+    "453.ace3e5dd.chunk.js.map": "/cards-online-site/static/js/453.ace3e5dd.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.c6d5346d.js"
+    "static/js/main.cb1472f3.js"
   ]
 }
